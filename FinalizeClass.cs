@@ -166,7 +166,7 @@ internal static class FinalizeClass
             XElement itemGroup = new(ns + "ItemGroup",
                 new XElement(ns + "PackageReference",
                     new XAttribute("Include", "CssClassConstGenerator"),
-                    new XAttribute("Version", "1.0.2"),
+                    new XAttribute("Version", "1.0.3"),
                     new XAttribute("PrivateAssets", "all")));
             doc.Root.Add(itemGroup);
         }
