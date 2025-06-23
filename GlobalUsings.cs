@@ -1,0 +1,10 @@
+﻿global using cc1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.Misc.SimpleCommandLineHelpers;
+global using CommonBasicLibraries.CollectionClasses;
+global using ff1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.FileFunctions.FileFunctions;
+global using css1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.CssHelpers.CssJsonInitializer;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.BasicExtensions;
+global using System.Diagnostics;
+global using CssClassConstDesigner;
+global using CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.CssHelpers;
+global using System.Xml.Linq;
+global using jj1 = CommonBasicLibraries.AdvancedGeneralFunctionsAndProcesses.JsonSerializers.FileHelpers;
